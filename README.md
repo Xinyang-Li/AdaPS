@@ -4,7 +4,7 @@ Multi-foci generation is a problem of **computer-generated holography**. The  pu
 
 Here, we use stochastic gradient descent (SGD) to solve this problem. The state-of-the-art SGD algorithm, **Adam optimizer** is employed to guarantee fast and stable convergence. Our method has been verified both in simulations and several experiments related to multiphoton microscopy.
 
-We name this method adaptive optimization-based phase-searching method (**AdaPS**) and hope that our work can be helpful in the field of optics and imaging. More details please refer to the published paper. [[paper]](http://media.au.tsinghua.edu.cn/)
+We name this method adaptive optimization-based phase-searching method (**AdaPS**) and hope that our work can be helpful in the field of optics and imaging. More details please refer to the published paper. [[paper]](https://www.osapublishing.org/oe/home.cfm)
 
 <img src="https://github.com/BBNC-Computational-Imaging/AdaPS/blob/master/schemetic.jpg" width="1000" align="middle">
 
@@ -27,4 +27,4 @@ Please check your environment before run this notebook. If your environment is n
 
 If you use this code please cite the corresponding papers where original methods appeared: 
 
-"Adaptive optimization for axial multi-foci generation in multiphoton microscopy". [[paper]](http://media.au.tsinghua.edu.cn/)
+"Adaptive optimization for axial multi-foci generation in multiphoton microscopy". [[paper]](https://www.osapublishing.org/oe/home.cfm)
