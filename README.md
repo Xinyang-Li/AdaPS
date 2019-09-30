@@ -25,6 +25,6 @@ Please check your environment before running this notebook. If your environment 
 
 # Citation
 
-If you use this code please cite the corresponding papers where original methods appeared: 
+If you use this code please cite the corresponding paper where original methods appeared: 
 
 "*Adaptive optimization for axial multi-foci generation in multiphoton microscopy*". [[paper]](https://www.osapublishing.org/oe/home.cfm)
