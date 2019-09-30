@@ -1,6 +1,6 @@
 # AdaPS: Adaptive optimization for multi-foci generation
 
-Multi-foci generation is a problem of **computer-generated holography**. The  purpose is to calculate a phase pattern on the Fourier plane of the lens to generate desired multi-foci distribution. Because of the nonconvexity (both the forward propagation model and the loss function) of this problem, conventional methods have difficulties solving it.
+Multi-foci generation is a problem of **computer-generated holography**. The  purpose is to calculate a phase pattern on the Fourier plane of the lens to generate desired multi-foci distribution. Because of the nonconvexity (both the forward propagation model and the loss function) of this problem, conventional methods have difficulties in solving it.
 
 Here, we use stochastic gradient descent (SGD) to solve this problem. The state-of-the-art SGD algorithm, **Adam optimizer** is employed to guarantee fast and stable convergence. Our method has been verified both in simulations and several experiments related to multiphoton microscopy.
 
@@ -21,7 +21,7 @@ Our code is organized in a jupyter notebook file and has been tested to be execu
 - **tensorflow-gpu 1.4.0**
 - NVIDIA GPU + CUDA 8.0
 
-Please check your environment before run this notebook. If your environment is not consistent, we suggest you configure a same environment to avoid some annoying errors caused by version incompatibility of the Tensorflow platform.
+Please check your environment before running this notebook. If your environment is not consistent, we suggest you configure the same environment to avoid some annoying errors caused by version incompatibility of the Tensorflow platform.
 
 # Citation
 
