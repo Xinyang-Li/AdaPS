@@ -23,6 +23,16 @@ Our code is organized in a jupyter notebook file and has been tested to be execu
 
 Please check your environment before running this notebook. If your environment is not consistent, we suggest you configure the same environment to avoid some annoying errors caused by version incompatibility of the Tensorflow platform.
 
+# Applications
+
+## 1. Simultaneous 5-plane imaging in in scattering phantom
+
+<img src="https://github.com/BBNC-Computational-Imaging/AdaPS/blob/master/beads.png" width="1000" align="middle">
+
+## 2. Simultaneous 5-plane calcium imaging with high-fidelity in mouse brain *in vivo*
+
+<img src="https://github.com/BBNC-Computational-Imaging/AdaPS/blob/master/calcium.png" width="1000" align="middle">
+
 # Citation
 
 If you use this code please cite the corresponding paper where original methods appeared: 
