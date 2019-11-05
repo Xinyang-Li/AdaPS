@@ -27,11 +27,12 @@ Please check your environment before running this notebook. If your environment 
 
 ## 1. Simultaneous 5-plane imaging in in scattering phantom
 
-<img src="https://github.com/BBNC-Computational-Imaging/AdaPS/blob/master/beads.png" width="1000" align="middle">
+<img src="https://github.com/BBNC-Computational-Imaging/AdaPS/blob/master/beads.png" width="700" align="middle">
 
 ## 2. Simultaneous 5-plane calcium imaging with high-fidelity in mouse brain *in vivo*
 
 <img src="https://github.com/BBNC-Computational-Imaging/AdaPS/blob/master/calcium.png" width="1000" align="middle">
+
 
 # Citation
 
