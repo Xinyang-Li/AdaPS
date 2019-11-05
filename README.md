@@ -6,7 +6,7 @@ Here, we use stochastic gradient descent (SGD) to solve this problem. The state-
 
 We name this method adaptive optimization-based phase-searching method (**AdaPS**) and hope that our work can be helpful in the field of optics and imaging. 
 
-More details please refer to the published paper. [[paper]](https://www.osapublishing.org/oe/home.cfm)
+More details please refer to the *published paper*. [[paper]](https://www.osapublishing.org/oe/home.cfm)
 
 <img src="https://github.com/BBNC-Computational-Imaging/AdaPS/blob/master/schemetic.jpg" width="1000" align="middle">
 
