@@ -39,4 +39,4 @@ Please check your environment before running this notebook. If your environment 
 
 If you use this code please cite the corresponding paper where original methods appeared: 
 
-["*Xinyang Li, Yuanlong Zhang, Kan Liu, Hao Xie, Haoqian Wang, Lingjie Kong, and Qionghai Dai, "Adaptive optimization for axial multi-foci generation in multiphoton microscopy," Opt. Express 27, 35948-35961 (2019).*".](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-24-35948)
+["*Li, X., et al. (2019). "Adaptive optimization for axial multi-foci generation in multiphoton microscopy." Optics Express 27(24).*".](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-24-35948)
