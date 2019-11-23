@@ -6,7 +6,7 @@ Here, we use stochastic gradient descent (SGD) to solve this problem. The state-
 
 We name this method adaptive optimization-based phase-searching method (**AdaPS**) and hope that our work can be helpful in the field of optics and imaging. 
 
-More details please refer to the [*published paper*](https://www.osapublishing.org/oe/home.cfm).
+More details please refer to the [*published paper*](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-24-35948).
 
 <img src="https://github.com/BBNC-Computational-Imaging/AdaPS/blob/master/schemetic.jpg" width="1000" align="middle">
 
@@ -40,4 +40,4 @@ Please check your environment before running this notebook. If your environment 
 
 If you use this code please cite the corresponding paper where original methods appeared: 
 
-["*Adaptive optimization for axial multi-foci generation in multiphoton microscopy*".] (https://www.osapublishing.org/oe/home.cfm)
+["*Adaptive optimization for axial multi-foci generation in multiphoton microscopy*".] (https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-24-35948)
