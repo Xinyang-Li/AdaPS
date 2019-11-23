@@ -39,4 +39,4 @@ Please check your environment before running this notebook. If your environment 
 
 If you use this code please cite the corresponding paper where original methods appeared: 
 
-["*Adaptive optimization for axial multi-foci generation in multiphoton microscopy*".] (https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-24-35948)
+["*Adaptive optimization for axial multi-foci generation in multiphoton microscopy*".](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-27-24-35948)
